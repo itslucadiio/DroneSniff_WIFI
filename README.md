@@ -1,4 +1,4 @@
-# DRONETRAP-WIFI
+# DRONESNIFF-WIFI
 
 - This software is designed to be used on OLIMEX ESP32-EVB-EA-IND, used to detect devices/drones sending WIFI.
 - The software is programmed in C++ and developed via PlatformIO.
